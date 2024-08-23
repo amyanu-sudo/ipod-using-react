@@ -1,4 +1,4 @@
-# iPod-usin-react
+# iPod-using-react
 
 ## View this app at: https://github.com/amyanu-sudo/ipod-using-react/
 
